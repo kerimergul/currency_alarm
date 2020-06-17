@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611587991105",
+    "firebase_url": "https://currencyalarm-fb440.firebaseio.com",
+    "project_id": "currencyalarm-fb440",
+    "storage_bucket": "currencyalarm-fb440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611587991105:android:dc70b79e566c85030bc8c0",
+        "android_client_info": {
+          "package_name": "com.example.currency_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611587991105-kfp97m3b9hkcr5ue494ni82udm49ee2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.currency_alarm",
+            "certificate_hash": "6a65a7ec845d8efe2b84367cffd9a4cbb46bb4d4"
+          }
+        },
+        {
+          "client_id": "611587991105-o42rdbiu4pi836ibjdcf2gtive3iveg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZ8rsxRBr3sZGQKy8Ob1ap7SI6WCYAok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611587991105-o42rdbiu4pi836ibjdcf2gtive3iveg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
